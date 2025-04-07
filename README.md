@@ -34,7 +34,6 @@ I'm a Graphic & WordPress Web Designer. who is passionate about making error-fre
 </div>
 
 #
-
 - 🔭 I’m currently working on a Portfolio Website Design. 
 - 🌱 I’m currently learning JavaScript, C/C++, and Python. 
 - 💬 Ask me about Graphic & WordPress Web Design. 
