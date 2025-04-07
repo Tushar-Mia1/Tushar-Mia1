@@ -36,3 +36,5 @@ Skills: HTML / CSS / JavaScript / C & C++ / Python / Adobe Illustrator & Photosh
 </div>
 
 <img src="https://raw.githubusercontent.com/Tushar-Mia1/Tushar-Mia1/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
