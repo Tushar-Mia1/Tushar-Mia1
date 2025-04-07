@@ -15,12 +15,6 @@ I'm a Graphic & WordPress Web Designer. who is passionate about making error-fre
 
 Skills: HTML / CSS / JavaScript / C & C++ / Python / Adobe Illustrator & Photoshop / Graphic Design / Logo Design.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"  />
-</div>
-
 - 🔭 I’m currently working on a Portfolio Website Design. 
 - 🌱 I’m currently learning JavaScript, C/C++, and Python. 
 - 💬 Ask me about Graphic & WordPress Web Design. 
