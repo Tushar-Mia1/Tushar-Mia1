@@ -19,6 +19,7 @@ Skills: HTML / CSS / JavaScript / C & C++ / Python / Adobe Illustrator & Photosh
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Tushar-Mia1.Tushar-Mia1&"/>
 </div>
+
 ###
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Mia1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
