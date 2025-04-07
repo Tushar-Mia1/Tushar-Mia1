@@ -32,6 +32,7 @@ I'm a Graphic & WordPress Web Designer. who is passionate about making error-fre
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
+
 #
 
 - 🔭 I’m currently working on a Portfolio Website Design. 
