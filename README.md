@@ -35,5 +35,4 @@ Skills: HTML / CSS / JavaScript / C & C++ / Python / Adobe Illustrator & Photosh
 <img src="https://streak-stats.demolab.com?user=Tushar-Mia1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tushar-Mia1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/turikulalamtushar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Tushar4160)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@TusharPlays143)  
-
+<img src="https://raw.githubusercontent.com/Tushar-Mia1/Tushar-Mia1/output/snake.svg" alt="Snake animation"/>
