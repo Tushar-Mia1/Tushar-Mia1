@@ -4,7 +4,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Tushar-Mia1.Tushar-Mia1&"/>
 </div>
 
