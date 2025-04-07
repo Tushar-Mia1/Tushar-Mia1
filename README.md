@@ -12,7 +12,7 @@
 
 <h3>Graphic & WordPress Web Designer with Elementor.</h3>
 
-I'm a Graphic & WordPress Web Designer. who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintaining excellent communication. Most of the time, I work with WordPress.
+<p>I'm a Graphic & WordPress Web Designer. who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintaining excellent communication. Most of the time, I work with WordPress.</p>
 
 <h2 align="left">Skills :</h2>
 
