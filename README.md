@@ -7,6 +7,11 @@
 <h1 align="center"> Hi there 👋, I'm Tushar Mia</h1>
 
 ### Graphic & WordPress Web Designer with Elementor.
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tushar-Mia1.Tushar-Mia1&"/>
+</div>
+
 I'm a Graphic & WordPress Web Designer. who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintaining excellent communication. Most of the time, I work with WordPress.
 
 Skills: HTML / CSS / JavaScript / C & C++ / Python / Adobe Illustrator & Photoshop / Graphic Design / Logo Design.
