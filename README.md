@@ -14,7 +14,6 @@
 
 I'm a Graphic & WordPress Web Designer. who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintaining excellent communication. Most of the time, I work with WordPress.
 
-#
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -33,7 +32,6 @@ I'm a Graphic & WordPress Web Designer. who is passionate about making error-fre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-#
 - 🔭 I’m currently working on a Portfolio Website Design. 
 - 🌱 I’m currently learning JavaScript, C/C++, and Python. 
 - 💬 Ask me about Graphic & WordPress Web Design. 
