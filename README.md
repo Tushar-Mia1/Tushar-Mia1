@@ -18,7 +18,7 @@ Skills: HTML / CSS / JavaScript / C & C++ / Python / Adobe Illustrator & Photosh
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"  />
 </div>
 
 - 🔭 I’m currently working on a Portfolio Website Design. 
